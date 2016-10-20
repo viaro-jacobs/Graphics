@@ -1,0 +1,19 @@
+{
+  "name": "gulp-test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-mocks": "^1.5.8",
+    "angular-nvd3": "^1.0.9",
+    "angular-route": "^1.5.8",
+    "gulp-connect": "^4.1.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
