@@ -2,7 +2,7 @@
 	'use strict';
 
 	angular
-	.module('myApp', ['nvd3'])
+	.module('myApp')
 	.controller('myCtrl', myCtrl); 
 
 	myCtrl.$inject = ['graphicService'];
